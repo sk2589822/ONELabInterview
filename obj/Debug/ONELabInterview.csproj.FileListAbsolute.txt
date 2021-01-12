@@ -1,0 +1,7 @@
+C:\coding\CSharp\ONELabInterview\bin\Debug\ONELabInterview.exe.config
+C:\coding\CSharp\ONELabInterview\bin\Debug\ONELabInterview.exe
+C:\coding\CSharp\ONELabInterview\bin\Debug\ONELabInterview.pdb
+C:\coding\CSharp\ONELabInterview\obj\Debug\ONELabInterview.csprojAssemblyReference.cache
+C:\coding\CSharp\ONELabInterview\obj\Debug\ONELabInterview.csproj.CoreCompileInputs.cache
+C:\coding\CSharp\ONELabInterview\obj\Debug\ONELabInterview.exe
+C:\coding\CSharp\ONELabInterview\obj\Debug\ONELabInterview.pdb
